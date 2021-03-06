@@ -1,2 +1,2 @@
 # bfe-dev-js-problems
-practicing  problems and  questions for Front End from bfe.dev site
+Solutions for FE / JS problems and questions from bfe.dev.
